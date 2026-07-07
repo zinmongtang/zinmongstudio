@@ -1,6 +1,6 @@
 title: Zinmong Studio
 description: Portfolio site
-baseurl: ""
+baseurl: "/zinmongstudio"
 url: "https://yourusername.github.io"
 
 collections:
